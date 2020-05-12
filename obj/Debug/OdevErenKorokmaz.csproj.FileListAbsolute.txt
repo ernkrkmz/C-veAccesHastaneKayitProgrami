@@ -1,0 +1,10 @@
+C:\Users\eren_\source\repos\OdevErenKorokmaz\bin\Debug\OdevErenKorokmaz.exe.config
+C:\Users\eren_\source\repos\OdevErenKorokmaz\bin\Debug\OdevErenKorokmaz.exe
+C:\Users\eren_\source\repos\OdevErenKorokmaz\bin\Debug\OdevErenKorokmaz.pdb
+C:\Users\eren_\source\repos\OdevErenKorokmaz\obj\Debug\OdevErenKorokmaz.csprojAssemblyReference.cache
+C:\Users\eren_\source\repos\OdevErenKorokmaz\obj\Debug\OdevErenKorokmaz.Form1.resources
+C:\Users\eren_\source\repos\OdevErenKorokmaz\obj\Debug\OdevErenKorokmaz.Properties.Resources.resources
+C:\Users\eren_\source\repos\OdevErenKorokmaz\obj\Debug\OdevErenKorokmaz.csproj.GenerateResource.cache
+C:\Users\eren_\source\repos\OdevErenKorokmaz\obj\Debug\OdevErenKorokmaz.exe
+C:\Users\eren_\source\repos\OdevErenKorokmaz\obj\Debug\OdevErenKorokmaz.pdb
+C:\Users\eren_\source\repos\OdevErenKorokmaz\obj\Debug\OdevErenKorokmaz.Form2.resources
